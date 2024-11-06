@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 
 
-![](C:\Users\PAVILION\Documents\IlkRepoKodluyoruz\kodluyoruzilkrepo\img\Github.png)
+![Github](kodluyoruzilkrepo\img\Github.png)
 
 ##  Installation
 
